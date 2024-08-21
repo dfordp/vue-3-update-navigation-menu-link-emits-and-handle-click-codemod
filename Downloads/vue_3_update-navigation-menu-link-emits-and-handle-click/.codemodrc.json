@@ -15,6 +15,6 @@
       "NavigationMenu",
       "client-side nav prevented by RouterLink Fix"
     ],
-    "git": "https://github.com/dfordp/vue-v1.9.4-watchPostEffect-placed-update.git"
+    "git": "https://github.com/dfordp/vue-3-update-navigation-menu-link-emits-and-handle-click-codemod"
   }
 }
