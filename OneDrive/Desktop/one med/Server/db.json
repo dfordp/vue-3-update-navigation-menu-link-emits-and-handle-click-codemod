@@ -1,0 +1,5 @@
+{
+    "production" : "mongodb+srv://dp:jCxp0j6cSJIIDo4s@cluster0.xekkrqq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "ganesh" : "mongodb+srv://TEST:TEST@cluster0.rtpkvtx.mongodb.net/One-Med?retryWrites=true&w=majority&appName=Cluster0",
+    "dilpreet" : "mongodb+srv://dilpreetgrover2:oMt73cVdnZ6CY1Qd@cluster0.amvthbp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+}
